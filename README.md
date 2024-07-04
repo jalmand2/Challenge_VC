@@ -23,3 +23,5 @@ These are the step-by-step instructions for a basic lesson learned through WGU a
     - This last step is easy, from the terminal in Visual Studio Code type "git push", then check your remote repository on GitHub. Refresh and make sure you see that the file has been added. 
 
 
+
+
